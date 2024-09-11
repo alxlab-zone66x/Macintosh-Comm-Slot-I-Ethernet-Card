@@ -1,0 +1,4 @@
+[submodule "kicad/common/alxlab"]
+	path = kicad/common/alxlab
+	url = git@github.com:alxlab-zone66x/alxlab-Kicad-Library.git
+	branch = master
