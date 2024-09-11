@@ -1,6 +1,6 @@
-# Macintosh Comm Slot I Ethernet
+# Macintosh Comm Slot I Ethernet Card
 
-This is a reproduction of the Farallon EtherMac LC Comm Slot Ethernet Card.
+This is a recreation of Macintosh Comm Slot I Ethernet Cards based on the Farallon EtherMac LC Comm Slot Ethernet Card.
 
 
 
@@ -8,7 +8,7 @@ This is a reproduction of the Farallon EtherMac LC Comm Slot Ethernet Card.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-[Macintosh Comm Slot I Ethernet ](https://github.com/alxlab-zone66x/Macintosh-Comm-Slot-I-Ethernet-Card) © 2024   by  [ Alexandre Marcoux ](https://www.alxlab.com) is licensed under [ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+[Macintosh Comm Slot I Ethernet Card](https://github.com/alxlab-zone66x/Macintosh-Comm-Slot-I-Ethernet-Card) © 2024   by  [ Alexandre Marcoux ](https://www.alxlab.com) is licensed under [ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 
 
